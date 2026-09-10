@@ -1,0 +1,87 @@
+PCB DATASET - EXACT DUPLICATE CLEANING REPORT
+======================================================================
+
+Duplicate groups found: 9
+Validation images removed: 6
+Test images removed: 5
+
+GROUP 1
+Hash: b2d8696fd90ac98d9663d3da9b5aeeac
+TRAIN:
+  rotation_90_light_01_short_13_2_600.jpg
+  rotation_90_light_01_short_16_2_600.jpg
+VAL:
+  rotation_90_light_01_short_11_2_600.jpg
+
+GROUP 2
+Hash: bf39df0901dd348eb80fd7ea6d400dc3
+TRAIN:
+  rotation_90_light_05_open_circuit_03_1_600.jpg
+VAL:
+  rotation_90_light_05_open_circuit_04_2_600.jpg
+
+GROUP 3
+Hash: 5a5c9890b60ad719bd3bf15a1200b7c3
+TRAIN:
+  light_01_short_11_1_600.jpg
+  light_01_short_12_1_600.jpg
+  light_01_short_13_1_600.jpg
+  light_01_short_16_1_600.jpg
+  light_01_short_19_1_600.jpg
+  light_01_short_20_1_600.jpg
+VAL:
+  light_01_short_18_1_600.jpg
+
+GROUP 4
+Hash: e715ada6a4026258956e6ef7f6d7190e
+TRAIN:
+  rotation_90_light_01_short_08_2_600.jpg
+VAL:
+  rotation_90_light_01_short_09_3_600.jpg
+
+GROUP 5
+Hash: f3b25aa0a4576ff31ce253b25e3edf79
+TRAIN:
+  light_01_short_09_3_600.jpg
+VAL:
+  light_01_short_08_2_600.jpg
+
+GROUP 6
+Hash: 2b09d1fa514e9595fb8d2508f13545f1
+TRAIN:
+  l_light_05_open_circuit_03_1_600.jpg
+VAL:
+  l_light_05_open_circuit_04_2_600.jpg
+
+GROUP 7
+Hash: 5bd30bf79900d66510fce766c44ef5a5
+TRAIN:
+  l_light_01_short_16_2_600.jpg
+TEST:
+  l_light_01_short_11_2_600.jpg
+  l_light_01_short_13_2_600.jpg
+
+GROUP 8
+Hash: 1849f00c725982d8f1b616e06aad07e2
+TRAIN:
+  rotation_90_light_01_short_11_1_600.jpg
+  rotation_90_light_01_short_12_1_600.jpg
+  rotation_90_light_01_short_13_1_600.jpg
+  rotation_90_light_01_short_16_1_600.jpg
+  rotation_90_light_01_short_18_1_600.jpg
+  rotation_90_light_01_short_19_1_600.jpg
+TEST:
+  rotation_90_light_01_short_20_1_600.jpg
+
+GROUP 9
+Hash: 38bc94f1e9f35b46eb7b453f6c33ac1b
+TRAIN:
+  rotation_270_light_01_short_11_1_600.jpg
+  rotation_270_light_01_short_12_1_600.jpg
+  rotation_270_light_01_short_13_1_600.jpg
+  rotation_270_light_01_short_16_1_600.jpg
+  rotation_270_light_01_short_19_1_600.jpg
+TEST:
+  rotation_270_light_01_short_18_1_600.jpg
+  rotation_270_light_01_short_20_1_600.jpg
+
