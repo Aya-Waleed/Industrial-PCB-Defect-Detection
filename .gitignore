@@ -11,6 +11,10 @@ runs/
 *.pt
 weights/
 
+# Keep final trained model for the application
+!model/
+!model/best.pt
+
 # Python
 __pycache__/
 *.py[cod]

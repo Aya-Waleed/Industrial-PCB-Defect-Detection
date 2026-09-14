@@ -1,0 +1,24 @@
+Model: YOLO11n
+Task: Object Detection
+Image Size: 320
+Classes: 6
+
+Class IDs:
+0 = mouse_bite
+1 = spur
+2 = missing_hole
+3 = short
+4 = open_circuit
+5 = spurious_copper
+
+Test Set:
+Images = 1063
+Instances = 2153
+
+Precision = 0.967
+Recall = 0.918
+mAP50 = 0.962
+mAP50-95 = 0.470
+
+Weights:
+best.pt
