@@ -1,6 +1,16 @@
 # Original downloaded dataset - do not commit
 pcb-defect-dataset/
 
+# Processed dataset - stored locally, not in Git
+dataset_final/
+
+# YOLO training/evaluation/prediction outputs
+runs/
+
+# YOLO model weights - stored locally, not in Git
+*.pt
+weights/
+
 # Python
 __pycache__/
 *.py[cod]
