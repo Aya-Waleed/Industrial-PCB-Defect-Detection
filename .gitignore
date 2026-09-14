@@ -3,9 +3,17 @@ pcb-defect-dataset/
 
 # Processed dataset - stored locally, not in Git
 dataset_final/
+*.cache
+.pytest_cache/
+pytest-cache-files-*/
 
 # YOLO training/evaluation/prediction outputs
 runs/
+
+# Local Streamlit/Ultralytics runtime state
+Ultralytics/
+streamlit*.log
+streamlit*.err
 
 # YOLO model weights - stored locally, not in Git
 *.pt

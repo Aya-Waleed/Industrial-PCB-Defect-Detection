@@ -1,0 +1,8 @@
+# Held-out test metrics
+# Source: reports/model_evaluation/evaluation_results.md
+# Dataset: cleaned dataset_final/test (1,063 images; 2,153 instances)
+Split = Test
+Precision = 0.7470
+Recall = 0.9156
+mAP50 = 0.7656
+mAP50-95 = 0.3670
